@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class RestTest {
+public class PesquisarListaTest {
 	
 	Response response;
 	
